@@ -1,0 +1,57 @@
+SUNNY CHAUHAN
++91 8734-873499 · chauhansunny207@gmail.com
+[LinkedIn] · [GitHub — add when you have a portfolio link]
+
+
+PROFESSIONAL SUMMARY
+Software developer delivering .NET and SQL-backed line-of-business software and commercial CAD add-ins (Autodesk Inventor, SolidWorks, Solid Edge). Hands-on with vendor APIs, workflow automation, secure web apps (ASP.NET MVC), and reporting-style outputs (Excel Interop, CSV, relational data). Client-facing work from requirements through documentation and release. Information Technology Solutions, Humber College (2024). Building toward data analytics roles with strong SQL/Excel foundations plus formal analytics coursework (LinkedIn Learning, Credly).
+
+
+TECHNICAL SKILLS
+Languages: C#, VB.NET, SQL, Java, JavaScript, TypeScript, Python (coursework & self-study for analytics)
+Microsoft / .NET: ASP.NET MVC, Razor, Windows Forms, SQL Server
+Data & reporting: Relational modeling, T-SQL queries, CRUD and application reporting, Excel (analysis & reporting; Excel Interop in Windows apps), CSV export/import patterns
+CAD / engineering software: Inventor, SolidWorks, Solid Edge, AutoCAD — API-driven desktop tools (automation, iProperties/metadata, print, quantity, rename, scheduling, geometry utilities)
+Web & APIs: REST-style services (ASP.NET; Spring Boot in academic projects), React.js (components, forms/validation)
+Other desktop / academic: JavaFX, MySQL, JDBC, Struts 2.0 (project)
+Delivery: Requirements gathering, technical specs, debugging, documentation, shipping on schedule
+
+
+PROFESSIONAL EXPERIENCE
+
+Junior Software Developer · Monarch Innovation Private Limited · Ahmedabad, India
+2022 – 2023 · March 2025 – Present
+
+• Commercial CAD add-in portfolio across Inventor, SolidWorks, and Solid Edge: 7 Inventor in-house tools plus client Inventor work; 7 SolidWorks utilities (2 in-house); 4 Solid Edge tools — automation, metadata/iProperties, printing, quantity/BOM-style workflows, rename, scheduling, geometry cleanup.
+• Productized utilities including Inventor Autosave, iProperty Manager, Print Manager, Quantity Tool / Quantity Tool Pro, Rename Tool, Save Scheduler, Sharp Corner Remover, and related SolidWorks offerings (licensed / tiered products).
+• Invoice Management System: ASP.NET MVC, Razor, SQL Server — authentication, OTP, structured master data (company, product, client) and challan/invoicing flows; web deployment.
+• Built and maintained solutions in C#, VB.NET, and ASP.NET MVC with emphasis on reliable data handling, clear structure, and maintainability.
+• Client collaboration: requirements, technical discussions, documentation, and delivery across 10+ initiatives on schedule.
+
+
+SELECTED PROJECTS
+
+Invoice Management System — ASP.NET MVC, SQL Server, OTP, invoicing/challan workflows; hosted web deployment.
+
+Student Application Management System — JavaFX, MySQL, JDBC; role-based access (Admin, Registrar, Student); CSV reporting.
+
+Hospital Management System — C# Windows Forms; appointments and records; Excel Interop.
+
+Dynamic company management & invoicing — ASP.NET; admin panel; email OTP and session management.
+
+Restaurant booking & maintenance — Java, Struts 2.0; orders, reservations, tracking.
+
+Full-stack CRUD — React.js, Spring Boot; REST APIs, authentication and authorization.
+
+Video game discovery app — React 18, TypeScript; React Hook Form, Zod; API integration; deployment.
+
+
+CERTIFICATIONS
+Data Analytics Essentials (Credly)
+LinkedIn Learning: Learning Data Analytics (Parts 1–2); Data Literacy: Exploring and Describing Data; Learning Excel: Data Analysis; The Non-Technical Skills of Effective Data Scientists
+Sololearn: SQL; Java
+
+
+EDUCATION
+Information Technology Solutions — Humber College, Toronto — 2024
+B.Sc., Information Technology — Gujarat University — 2017 – 2020
