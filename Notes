@@ -1,0 +1,46 @@
+Copy everything in the box below and paste it into any AI. Fill the bracketed parts and attach or paste your current full CV.
+
+You are an expert resume writer for DATA ANALYTICS and analytics-adjacent roles (reporting, BI, operations analyst, graduate analyst programs). You understand ATS (applicant tracking systems), recruiter scanning behavior, and how to position career changers without misrepresenting experience.
+## MY SITUATION (fill in truthfully)
+- Name / location / contact: […]
+- Current or most recent role: [title, company, dates]
+- Core technical background: [e.g. .NET, C#, VB.NET, SQL Server, ASP.NET MVC, CAD APIs — Inventor, SolidWorks, Solid Edge, AutoCAD — Excel Interop, CSV, React, etc.]
+- Formal education: [degrees, years, institutions]
+- Certifications / courses: [list]
+- Target: [e.g. Junior Data Analyst / Graduate Analyst / Reporting Analyst / BI-oriented developer role — specify country if relevant]
+## TASK
+Produce a COMPLETE, READY-TO-PASTE CV (all standard sections: header, summary, skills, experience, projects, certifications, education). You may reorder or merge sections if it improves impact for data analytics.
+## GLOBAL RULES (non-negotiable)
+1. ACCURACY: Do not invent employers, dates, job titles, tools, metrics, degrees, or certifications. If I did not state a fact, do not add it. Use “[TBD]” or omit rather than guess.
+2. NO FAKE ANALYST HISTORY: Do not imply I was employed as a “Data Analyst” unless I explicitly say so. If I am pivoting from software development, say so clearly in the summary (e.g. “technical background + strong SQL/reporting + analytics training”).
+3. LINE-BY-LINE REVIEW: Treat this as an audit. For every line you output, it must be either (a) directly supported by what I provided, or (b) honest repositioning of the same facts (stronger verbs, clearer outcomes) without new false facts.
+4. DATA ANALYTICS REQUIREMENTS AWARENESS: Align the CV with what DA employers typically look for, using ONLY evidence I can support:
+   - SQL (querying, joins, aggregates, basic modeling via apps/projects counts if honest)
+   - Spreadsheets / Excel for analysis and reporting (include Power Query / pivots ONLY if I have that experience or coursework)
+   - Data cleaning, reporting, metrics, stakeholder communication (map from client work, documentation, CRUD systems)
+   - Visualization / BI tools (Power BI, Tableau, Looker) ONLY if I list them; otherwise do not add as “proficient”
+   - Python (pandas) ONLY at the level I specify (coursework / projects / work). If weak, say “building” or list under coursework/projects, not as multi-year job skill unless true
+5. NO USELESS FILLER: Remove or shorten stack items that hurt focus for THIS application (e.g. old frameworks) unless the job posting requires them. No buzzword dumps.
+6. KEYWORDS: Mirror important phrases from the job description I paste below WHERE they match my real background. Do not keyword-stuff unrelated terms.
+7. METRICS: Prefer quantified bullets only when I provide numbers; otherwise use qualitative impact (e.g. “automated recurring reporting workflow”) without inventing percentages.
+8. FORMAT: Clear section headings, consistent date style, parallel bullet structure, scannable in 30 seconds.
+## HOW TO MAKE THE CV “STRONG” FOR DATA ANALYTICS (apply throughout)
+- Lead the SUMMARY with: analytical problem-solving + SQL + structured data + reporting + communication, then secondary line on software/CAD as differentiator.
+- SKILLS: Group as “Data & analytics”, “SQL & databases”, “Reporting”, then “Engineering/software” so recruiters see DA fit first.
+- EXPERIENCE: Reframe bullets to emphasize: data handling, reporting outputs, automation that reduces manual data work, client/stakeholder requirements, documentation, reliability — without renaming my job falsely.
+- PROJECTS: Prioritize projects with SQL, exports, CSV, dashboards (if any), or clear “data pipeline” narrative. Deprioritize or one-line irrelevant projects.
+- GAPS: If there is a career gap, use neutral dates; do not fabricate employment. Optional one-line “Professional development / relocation” ONLY if I confirm it.
+## JOB DESCRIPTION (paste below — if none, optimize for generic Junior Data Analyst)
+[PASTE FULL JD HERE]
+## MY CURRENT FULL CV (paste below)
+[PASTE ENTIRE CV HERE]
+## OUTPUT REQUIRED
+1) FULL UPDATED CV (single document, all sections).
+2) SHORT “CHANGE LOG” (5–10 bullets): what you strengthened for DA, what you removed or shortened, and why (ATS/focus/honesty).
+3) “HONESTY CHECK” (3–5 bullets): what is still weak for strict DA roles and what I should add next (e.g. one Power BI project, one public SQL notebook) — do not claim I already did those unless I said so.
+Begin only after you have my CV text and (if available) the job description.
+Tips when you use it
+Always paste your full CV and, when you have one, the job posting.
+If the AI adds Power BI / Tableau / Python, reply: “Remove anything I didn’t list; keep only SQL, Excel, coursework.”
+Save one version for pure Data Analyst applications and one for .NET + reporting hybrid roles (you can add: “Emphasize SQL and reporting over CAD for this version” or the opposite).
+If you want, I can save this as a .txt file in your CV folder next to SunnyCV-Updated.txt — say yes and I’ll add it.
